@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Camille!
+#  <div align="center">👋 Hello, I'm Camille! </div>
 
 I am currently fullfiling my last year of engineering degree. I am specialized in software development. 
 
