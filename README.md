@@ -1,6 +1,6 @@
-#  <div align="center">👋 Hello, I'm Camille! </div>
+#  <div align="center">👋 Hello, I am Camille! </div>
 
-I am currently fullfiling my last year of engineering degree. I am specialized in software development. 
+I am currently fullfiling my last year of engineering degree at ESEO. I am specialized in software development. 
 
 ##  <div align="center"> 🔧 Technologies used </div>
 
@@ -8,10 +8,6 @@ I am currently fullfiling my last year of engineering degree. I am specialized i
 - [Tech/tool #2]
 - [Tech/tool #3]
 - ...
-
-## 🌱 Currently Learning
-
-I'm currently focused on learning [topic or technology]. Always eager to explore new things and expand my skill set.
 
 ##  <div align="center"> 📫 Contact me </div>
 
@@ -21,9 +17,15 @@ I'm currently focused on learning [topic or technology]. Always eager to explore
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?camillegd=your-camillegd&show_icons=true&hide=contribs,prs)
 
-## 🌐 Featured Projects
+##  <div align="center"> 🌐 Featured Projects </div>
 
-- [Project #1](https://github.com/your-username/project-1)
-- [Project #2](https://github.com/your-username/project-2)
+<div align="center">
+  <a href="https://github.com/camillegd/projet-villes">
+    <img src="https://img.shields.io/badge/Project%20%231-%23E34F26?style=flat-square&logo=github&logoColor=white" alt="Project Villes"/>
+  </a>
+  <a href="https://github.com/camillegd/pytatra">
+    <img src="https://img.shields.io/badge/Project%20%232-%23000000?style=flat-square&logo=github&logoColor=white" alt="Project Pytatra"/>
+  </a>
+</div>
 
 Feel free to explore my repositories and don't hesitate to reach out! 👨‍💻
