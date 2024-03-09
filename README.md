@@ -2,7 +2,7 @@
 
 I am currently fullfiling my last year of engineering degree. I am specialized in software development. 
 
-## 🔧 Technologies & Tools
+##  <div align="center"> 🔧 Technologies used </div>
 
 - [Tech/tool #1]
 - [Tech/tool #2]
@@ -13,28 +13,13 @@ I am currently fullfiling my last year of engineering degree. I am specialized i
 
 I'm currently focused on learning [topic or technology]. Always eager to explore new things and expand my skill set.
 
-## 📫 Get in Touch
+##  <div align="center"> 📫 Contact me </div>
 
 - LinkedIn: [@Camille Guyonnaud](https://www.linkedin.com/in/camille-guyonnaud/)
 
-## 💬 Fun Facts
+##  <div align="center"> 📊 GitHub Stats </div>
 
-- [Fun fact #1]
-- [Fun fact #2]
-- [Fun fact #3]
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
-
-## 🏆 GitHub Trophies
-
-[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📝 Latest Blog Posts
-
-- [Blog Post #1](https://your-blog-url.com/post-1)
-- [Blog Post #2](https://your-blog-url.com/post-2)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?camillegd=your-camillegd&show_icons=true&hide=contribs,prs)
 
 ## 🌐 Featured Projects
 
