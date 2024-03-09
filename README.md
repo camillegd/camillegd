@@ -15,7 +15,7 @@ I am currently fullfiling my last year of engineering degree at ESEO. I am speci
 
 ##  <div align="center"> 📊 GitHub Stats </div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?camillegd=your-camillegd&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=camillegd&show_icons=true&hide=contribs,prs)
 
 ##  <div align="center"> 🌐 My projects </div>
 
