@@ -31,6 +31,7 @@ I am currently fullfiling my last year of engineering degree at ESEO. I am speci
   <h3>Snake</h3>
   <p>This project is based on the famous "Snake" video game. It was developed in C++ from a tutorial on Youtube.</p>
     <a href="https://github.com/camillegd/snake" style="border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Project%20%232-%23000000?style=flat-square&logo=github&logoColor=white" alt="Project 2"/>
     </a>
 </div>
 
@@ -38,7 +39,7 @@ I am currently fullfiling my last year of engineering degree at ESEO. I am speci
   <h3>PWND</h3>
   <p>This is a web development project for a platform designed for students at my school.</p>
     <a href="https://github.com/camillegd/PWND" style="border-radius: 8px;">
-    <img src="https://img.shields.io/badge/Project%20%231-%23E34F26?style=flat-square&logo=github&logoColor=white" alt="Project PWND"/>
+    <img src="https://img.shields.io/badge/Project%20%233-%230077B5?style=flat-square&logo=github&logoColor=white" alt="Project 3"/>
     </a>
 </div>
 
