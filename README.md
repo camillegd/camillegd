@@ -2,6 +2,7 @@
 
 I am currently fullfiling my last year of engineering degree at ESEO. I am specialized in software development. 
 </br>
+</br>
 📫 Contact me: [@Camille Guyonnaud](https://www.linkedin.com/in/camille-guyonnaud/)
 
 ##  <div align="center"> 🔧 Technologies used </div>
@@ -40,7 +41,7 @@ I am currently fullfiling my last year of engineering degree at ESEO. I am speci
     <img src="https://img.shields.io/badge/Project%20%233-%230077B5?style=flat-square&logo=github&logoColor=white" alt="Project 3"/>
     </a>
 </div>
-
+</br>
 <div>
 <p>Feel free to explore my other repositories and don't hesitate to reach out! 👨‍💻</p>
 </div>
