@@ -17,14 +17,14 @@ I am currently fullfiling my last year of engineering degree at ESEO. I am speci
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?camillegd=your-camillegd&show_icons=true&hide=contribs,prs)
 
-##  <div align="center"> 🌐 Featured Projects </div>
+##  <div align="center"> 🌐 My projects </div>
 
 <div align="center">
-  <a href="https://github.com/camillegd/projet-villes">
-    <img src="https://img.shields.io/badge/Project%20%231-%23E34F26?style=flat-square&logo=github&logoColor=white" alt="Project Villes"/>
+  <a href="https://github.com/camillegd/projet-villes" style="border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Project%20%231-%23E34F26?style=flat-square&logo=github&logoColor=white" alt="Project Maestro"/>
   </a>
-  <a href="https://github.com/camillegd/pytatra">
-    <img src="https://img.shields.io/badge/Project%20%232-%23000000?style=flat-square&logo=github&logoColor=white" alt="Project Pytatra"/>
+  <a href="https://github.com/camillegd/pytatra" style="border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Project%20%232-%23000000?style=flat-square&logo=github&logoColor=white" alt="Project DEEP"/>
   </a>
 </div>
 
