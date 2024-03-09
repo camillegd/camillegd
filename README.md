@@ -1,16 +1,44 @@
-### Hi there 👋
+# 👋 Hello, I'm Camille!
 
-<!--
-**camillegd/camillegd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently fullfiling my last year of engineering degree. I am specialized in software development. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Tech/tool #1]
+- [Tech/tool #2]
+- [Tech/tool #3]
+- ...
+
+## 🌱 Currently Learning
+
+I'm currently focused on learning [topic or technology]. Always eager to explore new things and expand my skill set.
+
+## 📫 Get in Touch
+
+- LinkedIn: [@Camille Guyonnaud](https://www.linkedin.com/in/camille-guyonnaud/)
+
+## 💬 Fun Facts
+
+- [Fun fact #1]
+- [Fun fact #2]
+- [Fun fact #3]
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+
+## 🏆 GitHub Trophies
+
+[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📝 Latest Blog Posts
+
+- [Blog Post #1](https://your-blog-url.com/post-1)
+- [Blog Post #2](https://your-blog-url.com/post-2)
+
+## 🌐 Featured Projects
+
+- [Project #1](https://github.com/your-username/project-1)
+- [Project #2](https://github.com/your-username/project-2)
+
+Feel free to explore my repositories and don't hesitate to reach out! 👨‍💻
