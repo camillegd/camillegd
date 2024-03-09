@@ -20,10 +20,13 @@ I am currently fullfiling my last year of engineering degree at ESEO. I am speci
 ##  <div align="center"> 🌐 My projects </div>
 
 <div align="center">
-  <a href="https://github.com/camillegd/projet-villes" style="border-radius: 8px;">
+  <a href="https://github.com/Maestro-ESEO/Desktop-App" style="border-radius: 8px;">
     <img src="https://img.shields.io/badge/Project%20%231-%23E34F26?style=flat-square&logo=github&logoColor=white" alt="Project Maestro"/>
   </a>
-  <a href="https://github.com/camillegd/pytatra" style="border-radius: 8px;">
+  <a href="https://github.com/camillegd/DEEP-Project" style="border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Project%20%232-%23000000?style=flat-square&logo=github&logoColor=white" alt="Project DEEP"/>
+  </a>
+  <a href="https://github.com/camillegd/DEEP-Project" style="border-radius: 8px;">
     <img src="https://img.shields.io/badge/Project%20%232-%23000000?style=flat-square&logo=github&logoColor=white" alt="Project DEEP"/>
   </a>
 </div>
