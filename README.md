@@ -1,6 +1,6 @@
 #  <div align="center">👋 Hello, I am Camille! </div>
 
-I am currently fullfiling my last year of engineering degree at ESEO. I am specialized in software development. 
+I am currently fulfilling my last year of engineering degree at ESEO. I am specialized in software development. 
 </br>
 </br>
 📫 Contact me: [@Camille Guyonnaud](https://www.linkedin.com/in/camille-guyonnaud/)
