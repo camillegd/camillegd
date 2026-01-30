@@ -38,7 +38,7 @@ I am a software engineer, specialized in software development, particularly in G
 
 ##  <div align="center"> 📊 GitHub Stats </div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=camillegd&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=camillegd&show_icons=true&hide=prs)
 
 ##  <div align="center"> 🌐 My projects </div>
 
